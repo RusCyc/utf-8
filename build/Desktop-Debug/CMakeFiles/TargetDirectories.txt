@@ -1,0 +1,7 @@
+/home/rus/0/build/Desktop-Debug/CMakeFiles/0.dir
+/home/rus/0/build/Desktop-Debug/CMakeFiles/edit_cache.dir
+/home/rus/0/build/Desktop-Debug/CMakeFiles/rebuild_cache.dir
+/home/rus/0/build/Desktop-Debug/CMakeFiles/list_install_components.dir
+/home/rus/0/build/Desktop-Debug/CMakeFiles/install.dir
+/home/rus/0/build/Desktop-Debug/CMakeFiles/install/local.dir
+/home/rus/0/build/Desktop-Debug/CMakeFiles/install/strip.dir
